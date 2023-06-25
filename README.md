@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science projects**
 
-- 🌱 I’m currently learning **Oject Oriented Javascript**
+- 🌱 I’m currently learning **MERN-Stack Frameworks**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
